@@ -1,0 +1,21 @@
+#colorfondo{
+    background-color: coral ;
+}
+.colorfondo2{
+    background-color: greenyellow;
+}
+body{
+
+background-color: lightseagreen;
+width: 200px ;
+right: 600%;
+
+}
+div{
+    background-color: rgb(233, 15, 15);
+    float: left;
+}
+table{
+    border: 5px outset black;
+}
+

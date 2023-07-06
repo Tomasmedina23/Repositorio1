@@ -1,0 +1,30 @@
+
+/*body{
+    background-color: aqua;
+
+
+}
+div{
+    background-color: blue;
+}
+h1{
+    background-color: blueviolet;
+}
+h3{
+    background-color: darkorange;
+}
+*/
+#border{
+    border: 5px outset rgb(255, 107, 107);
+}
+#titulo2{
+    color: chartreuse;
+}
+.texto{
+    color:gold
+}
+.cabecera{
+    background-color: bisque;
+    background-image: url(img/img1.jpeg);
+    text-align: center;
+}
